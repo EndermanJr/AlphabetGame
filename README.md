@@ -12,3 +12,7 @@ to the next letter.
 
 This game was created in Java utilizing Swing for a GUI. This project taught be a lot, mainly how timer work with images bound to rectangles in order to change background color/make them "flash" as well as checking for uniqueness in different ways.
 Due to this projet materializing as something more than just a tiny coding project, the names of the classes are a bit odd. 
+
+** UPDATE ** :
+In the code, there is a reference to a "Lo-Fi Backgrond Music," which is not included on this repository, due to its file size. Please refer to my video as to what the game should sound like while playing or email me and I can send you a shortened file.
+
