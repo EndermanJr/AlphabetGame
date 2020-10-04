@@ -1,5 +1,6 @@
 # AlphabetGame
 The Alphabet Game is a elementary education game designed to help young students develop and strengthen the connection between the alphabet and real world objects.
+
 With the standard education system being forced to restructure due to COVID-19, elementary school students are one of the groups hit the worse: in person learning is a logistical nightmare; their parents are no longer living their normal lives; and schools are more concerned with safety precautions rather than the actual learning. All of these make it difficult for students to learn. 
 One of the most vital things that a student can learn is the connection of the alphabet in the real world. This is also something that is not practiced enough, regardless of COVID. So my partner and I decided to create a game that can be played to help the student learn this valuable skill.
 
